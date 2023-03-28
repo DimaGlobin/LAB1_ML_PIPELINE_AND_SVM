@@ -4,7 +4,7 @@
 
 ## Description
 
-This is project is the forst laboratory work in **MIPT ML course**. I studied behavoir of different machine learning algorithms and compared them by metrics 
+This project is the first laboratory work in **MIPT ML course**. I studied behavoir of different machine learning algorithms and compared them by metrics 
 (*accuracy*, *ROC-AUC curve*). The main task is *one-class and multiclass classifications*.
 
 I've also used **PCA** to decrease space dimention and other **Feature engineering** tools to decrease *loss*.
